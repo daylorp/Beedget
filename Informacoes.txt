@@ -8,3 +8,5 @@ Lembrando que os estágios do Git são: Commited, Modified e Staged, seguindo o 
 - Modificar o arquivo. Adicionar no staged. Fazer o commit.
 
 Esses passos são sempre seguidos nesse projeto para mantê-lo seguro e atualizado.
+
+A atualização utilizará os comandos básicos - pull e push, uma vez que o projeto pode ser manuseado por colegas ou em vários computadores.
