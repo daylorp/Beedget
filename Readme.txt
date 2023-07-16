@@ -1,0 +1,1 @@
+Olá! Muito obrigada por visitar o projeto "Beedget".
